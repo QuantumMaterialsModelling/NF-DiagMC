@@ -1,0 +1,19 @@
+----------Simulation informations----------
+
+Configurati name: Holstein
+
+Thermaliza steps: 5000000
+
+Total iterations: 10000000
+
+Random seed used: 2533045141
+
+Total time taken: 3158135 ms
+
+-------------Update Statistics-------------
+
+      name |    inverse | accepted | rejected |  invalid
+     chg_t |      chg_t | 1.000000 | 0.000000 | 0.000000
+     add_n |      rem_n | 0.183731 | 0.816269 | 0.000000
+   nnchg_n |    nnchg_n | 0.723665 | 0.268727 | 0.007608
+     rem_n |      add_n | 0.183776 | 0.816224 | 0.000000

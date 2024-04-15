@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: NF-DiagMC
+authors:
+  - family-names: Leoni
+    given-names: Luca
+url: https://github.com/Luca-Leoni/NF-DiagMC
+preferred-citation:
+  type: paper
+  title: "Global sampling of Feynman's diagrams through Normalizing Flow"
+  authors:
+    - family-names: Leoni
+      given-names: Luca
+    - family-names: Franchini
+      given-names: Cesare
+  month: 2
+  year: 2024
+  publisher:
+    name: arXiv
+  doi: "10.48550/arXiv.2402.00736"
+  url: "https://arxiv.org/abs/2402.00736"
